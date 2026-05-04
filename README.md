@@ -4,9 +4,7 @@ This project is a practical example of **Clean Architecture** with **SOLID princ
 
 ## Reference architecture image
 
-![Clean Architecture Reference](docs/images/clean-architecture-reference.png)
-
-> Place the provided reference image at `docs/images/clean-architecture-reference.png` so it renders correctly on GitHub.
+![Referencia de Clean Architecture](CleanArchitecture/docs/images/clean-architecture-reference.png)
 
 ## Why we use Clean Architecture
 
